@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привіт! Я Oleksandr 👋
 
-<!--
-**Iumrix-Velaris/Iumrix-Velaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Розробник / Developer
 
-Here are some ideas to get you started:
+Створюю, навчаюся та ділюся проєктами у світі технологій.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build, learn, and share projects in the world of technology.
+
+### 📌 Тут ви знайдете
+
+- Мої проєкти та експерименти
+- Практику розробки
+- Ідеї, якими варто поділитися
+
+### 🌍 Languages
+
+Українська · English
+
+---
+
+> Open to learning, building, and collaboration.
